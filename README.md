@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Junior Nintang</h1>
 <h3 align="center">I am a technophile based in Kumasi, Ghana.</h3>
 
-- 🔭 I’m currently working on **Anonchat (an anonymous chatapp)**
+- 🔭 I’m currently working on **Ishara (a React Native App)**
 
-- 🌱 I’m currently learning **React Native and Firebase**
+- 🌱 I’m currently learning **React Native, WordPress and Firebase**
 
 - 💬 Ask me about **how to get started in programming and resources.**
 
