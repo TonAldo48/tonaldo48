@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Junior Nintang</h1>
-<h3 align="center">I am a technophile based in Kumasi, Ghana.</h3>
+<h3 align="center">I am a technophile based in Grambling, Louisiana.</h3>
 
 - 🔭 I’m currently working on **Ishara (a React Native App)**
 
