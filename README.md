@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Junior Nintang</h1>
 <h3 align="center">I am a technophile based in Grambling, Louisiana.</h3>
 
-- 🔭 I’m currently working on **Ishara (a React Native App)**
+- 🔭 I’m currently working on **--**
 
-- 🌱 I’m currently learning **React Native, WordPress and Firebase**
+- 🌱 I’m currently learning **Wordware, and RAG Apps**
 
 - 💬 Ask me about **how to get started in programming and resources.**
 
