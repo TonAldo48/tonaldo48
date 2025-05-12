@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Junior Nintang</h1>
+<h1 align="center">Hi 👋, I'm David Nintang</h1>
 <h3 align="center">I am a technophile based in Grambling, Louisiana.</h3>
 
 - 🔭 I’m currently working on **--**
