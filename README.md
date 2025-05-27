@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Nintang</h1>
 <h3 align="center">I am a technophile based in Grambling, Louisiana.</h3>
 
-- 🔭 I’m currently working on **--**
+- 🔭 I’m currently working on **an ai agents**
 
-- 🌱 I’m currently learning **Wordware, and RAG Apps**
+- 🌱 I’m currently learning **Langchain, and RAG Apps**
 
 - 💬 Ask me about **how to get started in programming and resources.**
 
