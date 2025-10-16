@@ -1,9 +1,9 @@
-# Hi, I'm David 👋
+### Hi, I'm David 👋
 
 **Bio:**  
 Building and breaking is where I find freedom.
 
-## 🚀 Top Projects
+#### 🚀 Top Projects
 - [MateMatch](https://github.com/TonAldo48/matematch)  
 - [Veloria](https://github.com/TonAldo48/Veloria)
 
@@ -11,7 +11,7 @@ Building and breaking is where I find freedom.
 - [LinkedIn](https://www.linkedin.com/in/davidnintang)
 - [X / Twitter](https://x.com/davidnintang)
 
-## 🎵 Fun Facts
+#### 🎵 Fun Facts
 - 6' 3" (6' 5" on a good day!)
 - Enjoys Hamilton and Billie Eilish
 
